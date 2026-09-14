@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.local
+*.env
+
+# Model weights - ultralytics downloads yolov8n.pt on first use
+*.pt
+
+# Training artefacts
+datasets/
+runs/
+training.log
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db

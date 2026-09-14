@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --neon-blue: #00f3ff;
+    --neon-green: #0aff00;
+    --glass-bg: rgba(0, 0, 0, 0.7);
+}
+
+body {
+    background: #050505;
+    color: #fff;
+    overflow: hidden;
+}
+
+@layer utilities {
+    .bg-glass {
+        background: var(--glass-bg);
+        backdrop-filter: blur(10px);
+    }
+
+    .text-neonBlue {
+        color: var(--neon-blue);
+        text-shadow: 0 0 10px rgba(0, 243, 255, 0.5);
+    }
+}

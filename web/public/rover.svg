@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 96" width="64" height="96" role="img" aria-label="Rover">
+  <!-- Simple top-down rover silhouette. Original artwork for this project. -->
+  <rect x="14" y="10" width="36" height="76" rx="10" fill="#e8eaed"/>
+  <rect x="19" y="24" width="26" height="30" rx="5" fill="#2b2f36"/>
+  <rect x="19" y="60" width="26" height="18" rx="4" fill="#2b2f36"/>
+  <rect x="8"  y="22" width="7"  height="14" rx="3" fill="#3a3f47"/>
+  <rect x="49" y="22" width="7"  height="14" rx="3" fill="#3a3f47"/>
+  <rect x="8"  y="62" width="7"  height="14" rx="3" fill="#3a3f47"/>
+  <rect x="49" y="62" width="7"  height="14" rx="3" fill="#3a3f47"/>
+  <circle cx="32" cy="15" r="2.5" fill="#7fd1ff"/>
+</svg>

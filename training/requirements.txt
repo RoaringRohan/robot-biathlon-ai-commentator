@@ -1,0 +1,7 @@
+snowflake-connector-python
+python-dotenv
+opencv-python-headless
+ultralytics
+torch
+numpy
+pandas

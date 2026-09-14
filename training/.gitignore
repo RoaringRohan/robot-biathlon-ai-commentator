@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Datasets & Results
+datasets/
+runs/
+inference_demo/
+
+# Models
+*.pt
+*.onnx
+
+# Video Artifacts
+*.avi
+*.webm
+*.mp4
+demo_result.webm/
+demo_result.avi
