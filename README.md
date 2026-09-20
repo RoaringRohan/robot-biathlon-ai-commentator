@@ -13,7 +13,13 @@ Behind that, a training pipeline keeps the object detector improving: run footag
 warehouse, and a nightly job pulls the new video, turns it into a labelled dataset, and retrains
 the model.
 
-> **Demo:** *(to be added)* — this drove a physical rover, so the video is the only way to show it.
+![The dashboard mid-run: live rover camera feed, the AI referee's commentary, and the mission controls](assets/dashboard.jpg)
+
+*The dashboard mid-run: the live camera feed, the referee's commentary line, and system status for Snowflake, Gemini, ElevenLabs and the server.*
+
+![The rover the dashboard was watching](assets/rover.jpg)
+
+*The rover: a two-wheeled wooden chassis with a breadboard, motor driver, ultrasonic sensor and battery power.*
 
 ## The three parts
 
